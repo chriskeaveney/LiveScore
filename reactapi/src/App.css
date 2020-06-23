@@ -1,0 +1,235 @@
+body {
+  text-align: left;
+  background-image: url("images/bg3.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.image {
+  border:1px solid #2ecc71;
+  text-align: left;
+}
+
+.video {
+  border:1px solid #2ecc71;
+  width: 700px;
+  margin:auto;
+}
+
+ul#listone {
+ list-style-type: none;
+ }
+
+ .card {
+   position: relative;
+   margin: 0 auto;
+   background-color: #130f40 !important;
+   border:1px solid #000 !important;
+   background-color: rgba(19, 15, 64, 0.9) !important;
+
+ }
+
+ .contactcard {
+   background-color: #130f40 !important;
+   border:1px solid #000 !important;
+   opacity: 0.9;
+   display: inline-block;
+ }
+
+ .topcard {
+   margin: 0 auto;
+   background-color: #130f40 !important;
+   border:1px solid #000 !important;
+   border-bottom: none !important;
+   opacity: 0.9;
+ }
+
+ .nav {
+   background-color: #130f40;
+   opacity: 0.9;
+   position: fixed;
+ }
+
+ .matchescore {
+  color: #2ecc71 !important;
+}
+
+.link {
+  color: #2ecc71 !important;
+}
+
+.card-header {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;;
+  color: #dff9fb;
+}
+
+p {
+  display: inline !important;
+  vertical-align: top;
+}
+
+hr.break {
+  border-top: 1px solid black;
+  padding-bottom: 20px;
+}
+
+.loading {
+  font-size: 50px;
+  text-align: center;
+  margin-top: 70px;
+  color: #2ecc71;
+}
+
+.button {
+  color: #2ecc71 !important;
+  border-color: white !important;
+}
+
+.card-body {
+  padding-bottom: 5px !important;
+}
+
+.aboutimg {
+  background-image: url("images/lineup1.jpg");
+  background-repeat: no-repeat;
+  border:1px solid #fff !important;
+  width:500px;
+  height: 27rem;
+}
+
+.icon {
+  background-image: url("images/ball.png");
+  background-size: contain;
+  margin-right: 6px;
+  width:15px;
+  height:15px;
+  opacity: 0.8;
+}
+
+.contact {
+  margin: auto;
+}
+
+.view {
+  margin: auto;
+}
+
+.date {
+  margin: 100px;
+}
+
+.viewdetails {
+  font-size: 20px;
+  margin: auto;
+  text-decoration: underline;
+}
+
+.viewdetails1 {
+  font-size: 20px;
+  margin: auto;
+}
+
+.viewdetails2 {
+  margin: auto;
+}
+
+.viewdetails3 {
+  margin: auto;
+  color: #2ecc71 !important;
+}
+
+.goBack {
+  background-color: #130f40;
+  color: white;
+  opacity: 0.6;
+  border-radius: 3px;
+  position: absolute;
+}
+
+.goBack:hover {
+  color: white;
+  transition: 0.3s;
+  opacity: 1;
+  padding: 8px 16px;
+  border-radius: 3px;
+}
+
+.space {
+  margin-left: 30px;
+  display: inline;
+}
+
+.navbar-light .navbar-brand {
+  color: white !important;
+}
+
+.nav-link {
+  color: white !important;
+  opacity: 0.6;
+}
+
+.nav-link:hover {
+  opacity: 1;
+}
+
+.search {
+  background-color: #130f40 !important;
+  border-color: #2ecc71 !important;
+}
+
+.search:hover {
+  background-color: #2ecc71 !important;
+  color: white;
+  transition: 0.3s;
+}
+
+input{
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+textarea {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.centred {
+  margin: auto;
+}
+
+.col-md-auto {
+  display: inline-block !important;
+}
+
+.gap {
+  width: 20px;
+  display: inline-block;
+}
+
+.a {
+  color: #2ecc71 !important;
+}
