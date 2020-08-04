@@ -8,18 +8,18 @@
 
 - This live score application displays the latest football matches using a public API.
 
-Link to this app hosted on Firebase: 🔥 https://scorecastlive.web.app/ 🔥
+  Link to this app hosted on Firebase: 🔥 https://scorecastlive.web.app/ 🔥
 
-In the project directory, you can run:
+  In the project directory, you can run:
 
 # To Run
 
-npm start
+-npm start
 
-Starts the application in development mode.
-Open http://localhost:3000 to view it in the browser.
+ Starts the application in development mode.
+ Open http://localhost:3000 to view it in the browser.
 
-React will dynamically reloads when changes are made
+ React will dynamically reloads when changes are made
 
 ![](reactapi/images/home.png)
 
