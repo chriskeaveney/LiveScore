@@ -10,16 +10,16 @@
 
   Link to this app hosted on Firebase: 🔥 https://scorecastlive.web.app/ 🔥
 
-  In the project directory, you can run:
-
 # To Run
 
--npm start
+In the project directory, you can run:
 
- Starts the application in development mode.
- Open http://localhost:3000 to view it in the browser.
+- npm start
 
- React will dynamically reloads when changes are made
+  Starts the application in development mode.
+  Open http://localhost:3000 to view it in the browser.
+
+  React will dynamically reloads when changes are made
 
 ![](reactapi/images/home.png)
 
